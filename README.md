@@ -1,6 +1,6 @@
 # bootstrap-4-starter-template
 <p>
-  This a simple template to start your bootstrap template.
+  This a simple starter template to start your bootstrap 4 project.
 </p>
 <hr>
 <h2>Instruction:</h2>
