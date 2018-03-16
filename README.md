@@ -6,4 +6,4 @@
 <h2>Instruction:</h2>
 1. Download the zip file or clone the repo.<br><br>
 2. Install Dependencies: <br><code>npm install</code><br><br>
-3. Run local server:<br> <code>npm serve</code> / <code>gulp</code>
+3. Run local server:<br> <code>npm start</code> / <code>gulp</code>
